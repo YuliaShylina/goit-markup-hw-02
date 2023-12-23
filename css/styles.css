@@ -38,9 +38,14 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.contacts {
+  font-style: normal;
+}
 .contact-info {
   font-style: normal;
   color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .navigation-list-link:hover,
@@ -135,6 +140,21 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+}
+
+.fourth-section-card-content {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.fourth-section-card-text {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .footer {
