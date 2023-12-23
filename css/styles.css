@@ -137,12 +137,6 @@ ul {
   text-transform: capitalize;
 }
 
-.fourth-section-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
 .footer {
   background-color: #2e2f42;
 }
